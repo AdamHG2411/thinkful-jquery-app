@@ -1,3 +1,5 @@
+console.log(document.querySelector('.shopping-list'))
+console.log($('.shopping-list'))
 $(function() {
 
   // Step 1
